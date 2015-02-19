@@ -1,1 +1,2 @@
 0.0.3 - fixes for `jspm install text` to work on macs
+0.0.4 - add bower.json so jspm install works on mac
