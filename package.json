@@ -1,3 +1,6 @@
 {
-  "main": "text"
+  "name": "text",
+  "jspm": {
+    "main": "text"
+  }
 }
